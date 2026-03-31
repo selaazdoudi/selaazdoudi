@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @selaazdoudi
-- 👀 I’m interested in applications of data science, economics and machine learning techniques in public policy.
-- 🌱 I studied at Ecole Polytechnique, ENSAE and Sciences Po Aix. 
+- 👋 Hi, I’m Salma
+- 👀 I specialize in applications of data science, economics and machine learning techniques in public policy (with a focus on labour market policies & public finance)
+- 🌱 I studied at Ecole Polytechnique, ENSAE and Sciences Po Aix, which gives both a qualitative and quantitative background. 
 - 📫 How to reach me : salma.el-aazdoudi@polytechnique.edu
 
 <!---
